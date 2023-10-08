@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Sasha",
+        "Phone number": [
+            "0634120821"
+        ],
+        "Date of birth": "11 August 2020",
+        "email": "bill@bill.com",
+        "address": "Nezalozhnosti, 100"
+    },
+    {
+        "name": "Dima",
+        "Phone number": [
+            "0634520821"
+        ],
+        "Date of birth": "12 July 2019",
+        "email": "Bob@bob.com",
+        "address": "Nezalozhnosti, 130"
+    },
+    {
+        "name": "Donny",
+        "Phone number": [
+            "0634520822"
+        ],
+        "Date of birth": "15 July 2020",
+        "email": "Donny@Donny.com",
+        "address": "Nezalozhnosti, 120"
+    },
+    {
+        "name": "SamSmith",
+        "Phone number": [
+            "0634520823"
+        ],
+        "Date of birth": "30 July 2020",
+        "email": "Donny@Donny.com",
+        "address": "Nezalozhnosti, 110"
+    }
+]
