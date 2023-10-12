@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Vix",
+        "Phone number": [
+            "+380998889977"
+        ],
+        "Date of birth": "11 August 2020",
+        "email": "bill@bill.com",
+        "address": "Nezalozhnosti, 100"
+    },
+    {
+        "name": "Dima",
+        "Phone number": [
+            "+380634520821"
+        ],
+        "Date of birth": "12 July 2019",
+        "email": "Bob@bob.com",
+        "address": "Nezalozhnosti, 130"
+    },
+    {
+        "name": "Donny",
+        "Phone number": [
+            "+380634520822"
+        ],
+        "Date of birth": "15 July 2020",
+        "email": "Donny@Donny.com",
+        "address": "Nezalozhnosti, 120"
+    },
+    {
+        "name": "SamSmith",
+        "Phone number": [
+            "+380634520823"
+        ],
+        "Date of birth": "30 July 2020",
+        "email": "Donny@Donny.com",
+        "address": "Nezalozhnosti, 110"
+    },
+    {
+        "name": "Lambert",
+        "Phone number": [
+            "+380998889977"
+        ],
+        "Date of birth": "11 August 2020",
+        "email": "bill@bill.com",
+        "address": "Nezalozhnosti, 101"
+    },
+    {
+        "name": "Petro",
+        "Phone number": [
+            "+380634520821"
+        ],
+        "Date of birth": "19 December 2019",
+        "email": "Petro@bob.com",
+        "address": ""
+    },
+    {
+        "name": "Crafter",
+        "Phone number": [
+            "+380634520153"
+        ],
+        "Date of birth": "01 October 1990",
+        "email": "craftbeer@Donny.com",
+        "address": "Nezalozhnosti, 125"
+    },
+    {
+        "name": "Bober",
+        "Phone number": [
+            "+380634520823"
+        ],
+        "Date of birth": "",
+        "email": "",
+        "address": "Nezalozhnosti, 12"
+    },
+    {
+        "name": "Rosa",
+        "Phone number": [
+            "+380995556644"
+        ],
+        "Date of birth": "",
+        "email": "",
+        "address": ""
+    }
+]
